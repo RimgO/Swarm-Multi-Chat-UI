@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+openai>=1.3.0
+python-dotenv>=1.0.0
+loguru>=0.7.2
+swarm-python>=0.1.0
+tavily-python>=0.1.0
+
+# Optional dependencies
+# For development and testing
+pytest>=7.4.0
+black>=23.9.1
+flake8>=6.1.0
